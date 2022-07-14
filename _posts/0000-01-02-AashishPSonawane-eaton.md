@@ -1,6 +1,2 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
+This post is used for github learning purpose
 Use the left arrow to go back!
